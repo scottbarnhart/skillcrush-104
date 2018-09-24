@@ -13652,3 +13652,10 @@ footer {
   font-style: italic;
   font-weight: bold;
 }
+/****Scott's Advice***/
+.scottbarnhart-advice h1 {
+  font: Trebuchet;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+}
